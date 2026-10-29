@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 104" role="img" aria-label="Golden International School Academy emblem">
+  <defs>
+    <linearGradient id="gNavy" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#173F73"/><stop offset="1" stop-color="#102544"/>
+    </linearGradient>
+    <linearGradient id="gGold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFD34D"/><stop offset="1" stop-color="#F2B705"/>
+    </linearGradient>
+  </defs>
+  <!-- Shield -->
+  <path d="M50 3 L89 13 V47 C89 73 73.5 90.5 50 101 C26.5 90.5 11 73 11 47 V13 Z" fill="url(#gNavy)" stroke="url(#gGold)" stroke-width="3.4" stroke-linejoin="round"/>
+  <path d="M50 9.5 L83 18 V47 C83 69.5 69.5 85 50 94.5 C30.5 85 17 69.5 17 47 V18 Z" fill="none" stroke="#F2B705" stroke-opacity=".55" stroke-width="1.1"/>
+  <!-- Rising sun rays -->
+  <g stroke="#F2B705" stroke-width="2.4" stroke-linecap="round">
+    <line x1="50" y1="18" x2="50" y2="24"/>
+    <line x1="36" y1="22" x2="39.4" y2="27"/>
+    <line x1="64" y1="22" x2="60.6" y2="27"/>
+    <line x1="27" y1="32" x2="33.4" y2="34.6"/>
+    <line x1="73" y1="32" x2="66.6" y2="34.6"/>
+  </g>
+  <!-- Sun -->
+  <path d="M39 45 a11 11 0 0 1 22 0 Z" fill="url(#gGold)"/>
+  <!-- Stars -->
+  <path d="M29 44.2l1.05 2.35 2.55.25-1.9 1.7.55 2.5L29 49.7l-2.25 1.3.55-2.5-1.9-1.7 2.55-.25Z" fill="#F2B705"/>
+  <path d="M71 44.2l1.05 2.35 2.55.25-1.9 1.7.55 2.5L71 49.7l-2.25 1.3.55-2.5-1.9-1.7 2.55-.25Z" fill="#F2B705"/>
+  <!-- Open book -->
+  <path d="M50 55.5 C43 50 33.5 48.7 24.5 50.6 V72.5 C33.5 70.7 43 72 50 77.5 C57 72 66.5 70.7 75.5 72.5 V50.6 C66.5 48.7 57 50 50 55.5 Z" fill="#FFFFFF"/>
+  <path d="M50 55.5 V77.5" stroke="#102544" stroke-width="1.7"/>
+  <g stroke="#173F73" stroke-width="1.5" stroke-linecap="round" opacity=".8">
+    <path d="M29.5 56.5 C35 55.4 40.8 56 45.8 58.4"/>
+    <path d="M29.5 62.4 C35 61.3 40.8 61.9 45.8 64.3"/>
+    <path d="M54.2 58.4 C59.2 56 65 55.4 70.5 56.5"/>
+    <path d="M54.2 64.3 C59.2 61.9 65 61.3 70.5 62.4"/>
+  </g>
+  <!-- Base ribbon dots -->
+  <circle cx="43" cy="84.5" r="1.6" fill="#F2B705"/><circle cx="50" cy="86" r="1.6" fill="#F2B705"/><circle cx="57" cy="84.5" r="1.6" fill="#F2B705"/>
+</svg>
